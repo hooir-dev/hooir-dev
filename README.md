@@ -10,7 +10,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 - 🚀 I use daily:
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://yourenio.com)
-  [![React](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://yourenio.com)
+  [![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://yourenio.com)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://yourenio.com)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://yourenio.com)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://yourenio.com)
@@ -24,7 +24,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://yourenio.com)
-  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://yourenio.com)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white)](https://yourenio.com)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://yourenio.com)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://yourenio.com)
   [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://yourenio.com)
@@ -34,7 +34,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect
 - ⚙️ I also use and work:
   [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://yourenio.com)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://yourenio.com)
-  [![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://yourenio.com)
+  [![mysql](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)](https://yourenio.com)
   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://yourenio.com)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://yourenio.com)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://yourenio.com)
